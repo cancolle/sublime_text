@@ -1,0 +1,25 @@
+[
+    {
+        "keys": ["g", "t"],
+        "command": "next_view",
+        "context":
+        [
+            { "key": "setting.is_widget", "operand": false },
+            { "key": "setting.command_mode" }
+        ]
+    },
+    {
+        "keys": ["g", "T"],
+        "command": "prev_view",
+        "context":
+        [
+            { "key": "setting.is_widget", "operand": false },
+            { "key": "setting.command_mode" }
+        ]
+    },
+    {
+        "keys": ["super+shift+t"],
+        "command": "open_mac_terminal"
+    }
+
+]

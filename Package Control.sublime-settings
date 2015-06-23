@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Abacus",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"DataConverter",
+		"MacTerminal",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SideBarEnhancements",
+		"Tag",
+		"Theme - Brogrammer",
+		"View In Browser"
+	]
+}
